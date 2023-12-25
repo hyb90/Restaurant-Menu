@@ -142,6 +142,12 @@ APP_URL=http://localhost:8000
 SANCTUM_STATEFUL_DOMAINS=localhost:8000
 SESSION_DOMAIN=localhost
 ```
+### ScreenShots
+![Category 1](https://i.ibb.co/89LCPyf/dashboard.png)
+![Category 2](https://i.ibb.co/SXhKdXM/login.png)
+![Dashboard](https://i.ibb.co/ZBVk0sw/category2.png)
+![Login](https://i.ibb.co/4dQR2KB/category1.png)
+
 ## Authors
 
 - [@hyb90](https://github.com/hyb90)

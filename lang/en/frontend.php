@@ -123,7 +123,7 @@ return [
             "forgot_password_ask" => "Forgot your password?",
             'forgot_password_login' => 'Got your password? Log in.',
             "already_registered_login" => "Already done? Login.",
-            "inspire" => "Let's build something fun!",
+            "inspire" => "Yes",
             "copyright" => sprintf("Copyright &copy; %s. %s. All Rights Reserved.", date('Y'), env('APP_NAME')),
             'record_created' => 'Record created successfully.',
             'record_not_created' => 'Unable to create record.',
